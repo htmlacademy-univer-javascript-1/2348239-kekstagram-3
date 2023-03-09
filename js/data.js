@@ -1,4 +1,4 @@
-import {getRandom, photoDescription} from './functions.mjs';
+import {getRandom, photoDescription} from './functions.js';
 
 export const data = [];
 let i = 1;
